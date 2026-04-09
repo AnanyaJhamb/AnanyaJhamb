@@ -1,5 +1,4 @@
-Hi, I'm Ananya
-MS in Business Analytics & AI @ Johns Hopkins Carey Business School | 4+ years of professional experience at EY and KPMG | Washington, DC | I'm passionate about leveraging data to drive business decisions and optimize operations.
+Hi, I'm Ananya. I am a Master's in Business Analytics & AI student @ Johns Hopkins Carey with 4+ years of professional experience at EY and KPMG | Washington, DC | I'm passionate about leveraging data to drive business decisions and optimize operations.
 
 What I Do
 - Transform complex data into actionable insights
